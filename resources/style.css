@@ -1,15 +1,17 @@
 body{
     background-color: black;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.lether-h{
+    color: white;
 }
 
 h1{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: nomal;
     font-size: 50px;
-    color: white;
-    text-align: center;
-
+    color: white;    
 }
 
 p{
