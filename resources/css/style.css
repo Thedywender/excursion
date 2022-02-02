@@ -1,15 +1,31 @@
-body {
-    background-color: black;
-    text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.header--main {
-    color: white;
-    font-size: 50px;
-}
-
-.link--cta {
-    color: aquamarine;
-    font-size: 16px;
-}
+    body {
+        background-color: black;
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
+    
+    .header--main {
+        color: white;
+        font-size: 50px;
+    }
+    
+    .link--cta {
+        color: aquamarine;
+        font-size: 16px;
+    }
+    
+    .header--sec {
+        color: white;
+        font-size: 42px;
+        font-size: 300;
+    }
+    
+    .sub--header {
+        font-size: 21px;
+        color: grey;
+    }
+    
+    .register--mark {
+        text-align: right;
+        color: gray;
+    }
