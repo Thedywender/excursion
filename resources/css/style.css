@@ -4,17 +4,12 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.oshs {
+.header--main {
     color: white;
+    font-size: 50px;
 }
 
-.osas {
+.link--cta {
     color: aquamarine;
     font-size: 16px;
 }
-
-h1 {
-    font-weight: nomal;
-    font-size: 50px;       
-}
-
